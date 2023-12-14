@@ -1,0 +1,30 @@
+C:\Users\CP\Desktop\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\Projeto Operadoras\obj\Debug\Projeto_Operadoras.Form1.resources
+C:\Users\CP\Desktop\Projeto Operadoras\obj\Debug\Projeto_Operadoras.Properties.Resources.resources
+C:\Users\CP\Desktop\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\Projeto Operadoras\bin\Debug\Projeto Operadoras.exe.config
+C:\Users\CP\Desktop\Projeto Operadoras\bin\Debug\Projeto Operadoras.exe
+C:\Users\CP\Desktop\Projeto Operadoras\bin\Debug\Projeto Operadoras.pdb
+C:\Users\CP\Desktop\Projeto Operadoras\obj\Debug\Projeto Operadoras.exe
+C:\Users\CP\Desktop\Projeto Operadoras\obj\Debug\Projeto Operadoras.pdb
+E:\Projetos\projetos\Projeto Operadoras\bin\Debug\Projeto Operadoras.exe.config
+E:\Projetos\projetos\Projeto Operadoras\bin\Debug\Projeto Operadoras.exe
+E:\Projetos\projetos\Projeto Operadoras\bin\Debug\Projeto Operadoras.pdb
+E:\Projetos\projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.AssemblyReference.cache
+E:\Projetos\projetos\Projeto Operadoras\obj\Debug\Projeto_Operadoras.Form1.resources
+E:\Projetos\projetos\Projeto Operadoras\obj\Debug\Projeto_Operadoras.Properties.Resources.resources
+E:\Projetos\projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.GenerateResource.cache
+E:\Projetos\projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.CoreCompileInputs.cache
+E:\Projetos\projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.exe
+E:\Projetos\projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.pdb
+D:\Projetos\Projeto Operadoras\bin\Debug\Projeto Operadoras.exe.config
+D:\Projetos\Projeto Operadoras\bin\Debug\Projeto Operadoras.exe
+D:\Projetos\Projeto Operadoras\bin\Debug\Projeto Operadoras.pdb
+D:\Projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.AssemblyReference.cache
+D:\Projetos\Projeto Operadoras\obj\Debug\Projeto_Operadoras.Form1.resources
+D:\Projetos\Projeto Operadoras\obj\Debug\Projeto_Operadoras.Properties.Resources.resources
+D:\Projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.GenerateResource.cache
+D:\Projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.exe
+D:\Projetos\Projeto Operadoras\obj\Debug\Projeto Operadoras.pdb
