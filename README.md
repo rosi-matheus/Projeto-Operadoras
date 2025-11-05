@@ -18,13 +18,7 @@ Sistema desenvolvido para facilitar o gerenciamento de informações sobre opera
 🎨 Design Moderno - Interface clean e intuitiva
 
 🛠️ Tecnologias Utilizadas
-Frontend: React, TypeScript, Tailwind CSS
-
-Backend: Node.js, Express
-
-Banco de Dados: MongoDB
-
-Autenticação: JWT
+100% C#
 
 🎮 Como Usar
 Cadastrar Operadora
