@@ -40,8 +40,8 @@ Vá para a página "Consultar"
 Use os filtros para refinar sua busca
 
 Visualize os resultados em tempo real
-👥 Autores
-Rosi Matheus - GitHub
+
+👥 Autora Rosi Matheus - GitHub
 
 🤝
 ⭐️ Se este projeto foi útil, deixe uma estrela no repositório!
